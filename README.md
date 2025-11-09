@@ -79,11 +79,9 @@
 
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuiquiMatCom2004&show_icons=true&theme=radical&hide_bo
-  rder=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuiquiMatCom2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiquiMatCom2004&layout=compact&theme=radi
-  cal&hide_border=true&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiquiMatCom2004&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuiquiMatCom2004&theme=radical&hide_border=true)
 
